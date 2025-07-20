@@ -38,9 +38,12 @@ GET http://localhost:3000/products
 
 
 ### 🧱 Project Structure
+```bash
 📦 your-project/
  ┣ 📄 server.js        → Main Express app
  ┣ 📄 .env             → Redis credentials
  ┣ 📄 package.json     → Dependencies & scripts
  ┗ 📁 node_modules/    → Installed packages
-
+```
+### ▶️ Youtube video referrence "6 Pack Programmer" yt channel
+[HINID LANGUAGE](https://youtu.be/Y46wlauVH_o?si=OmTOFo9lFjOoEOWZ)
