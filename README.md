@@ -34,7 +34,7 @@ npm run dev
 ```
 
 ### 🔌 4. Test the API
-GET http://localhost:3000/products
+Try postman : GET http://localhost:3000/products
 
 
 ### 🧱 Project Structure
